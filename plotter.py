@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Example: Replace these with your actual simulator results
-# You can run the simulator for each trace and record the numbers
+
 traces = ["Sequential", "Random", "Localized"]
 
 cpu_cycles = [10, 12, 15]    # CPU cycles from each trace
